@@ -3,14 +3,14 @@
 Thank you for your interest in contributing to our repository! Your contributions will help learners explore the world of Large Language Models (LLMs) and their practical applications.  
 Before you begin, please take a moment to read our contribution guidelines. We want to ensure that this repository remains organized and valuable for the community.  
 
-## Pre-thought Process
+## Pre-thought Processes
 
 So you have an idea for a project, that's great 🙂! Let's validate.
 
-[ ] Does the project make use of Generative AI or Large language Model APIs?
-[ ] Does the project have a beneficary audience like developers, students, community or society?
-[ ] Does a duplicate project idea already exists in the repository for your idea?
-[ ] What is the difficulty level for implementing the project idea? {Beginner, Intermediate, Advanced)
+- [ ] Does the project make use of Generative AI or Large language Model APIs?
+- [ ] Does the project have a beneficary audience like developers, students, community or society?
+- [ ] Does a duplicate project idea already exists in the repository for your idea?
+- [ ] What is the difficulty level for implementing the project idea? {Beginner, Intermediate, Advanced)
 
 ## How to Contribute  
 
