@@ -1,7 +1,7 @@
 # Awesome LLM App Ideas
 
-![Awesome LLM App Ideas Logo](https://example.com/awesome-llm-logo.png)
-![Alt text](image-1.png)
+![Awesome LLM App Ideas Logo](https://github.com/Shrest4647/awesome-llm-app-ideas/assets/35072109/62cd4678-866a-41c2-9043-2000780e507e)
+
 
 Welcome to **Awesome LLM App Ideas**, your one-stop destination for a curated collection of Large Language Model (LLM) application concepts and ideas. Whether you're a developer, a student, or simply curious about the possibilities of LLMs, this repository is designed to inspire, educate, and guide you in exploring the world of language models.
 
