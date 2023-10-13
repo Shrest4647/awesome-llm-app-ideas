@@ -21,8 +21,33 @@ The Awesome LLM App Ideas repository is a comprehensive resource for those inter
 
 ## Get Started
 
-Ready to explore the limitless possibilities of LLMs? Visit our [website](https://shrest4647.github.io/awesome-llm-app-ideas) for an interactive experience, project inspiration, and the latest updates.
+**For Readers**, visit the idea bank website at [https://shrest4647.github.io/awesome-llm-app-ideas/](https://shrest4647.github.io/awesome-llm-app-ideas/)
+**For Contributors**, 
+1. Git clone the repo
+```bash
+git clone https://github.com/Shrest4647/awesome-llm-app-ideas.git
+cd awesome-llm-app-ideas
+```
+2. Select the difficulty level of your idea, and create a markdown file `my-ideal-project.md` at the proper folder. Start with the example template. Add your idea name, description and tech stack.
+   For example: beginner
+```bash
+cd apps
+cd beginner #difficulty
+touch my-ideal-project.md
+```
+Now, Add your idea description in markdown
 
+3. Create your branch
+```bash
+git checkout -b feat/<idea-name>
+```
+5. Commit your changes
+```bash
+git add **/my-ideal-project.md
+git commit -m "idea description"
+git push
+```
+5. Finally, create a pull request
 
 ## Support
 
@@ -40,4 +65,4 @@ The Awesome LLM App Ideas repository is released under the [MIT License](LICENSE
 
 Embrace the limitless potential of Large Language Models and explore the innovative applications they can bring to life. Get started with Awesome LLM App Ideas today and turn your creativity into reality.
 
-[Explore Now](https://shrest4647.github.io/awesome-llm-app-ideas/explore)
+[Explore Now](https://shrest4647.github.io/awesome-llm-app-ideas/)
