@@ -21,13 +21,12 @@ The Awesome LLM App Ideas repository is a comprehensive resource for those inter
 
 ## Get Started
 
-Ready to explore the limitless possibilities of LLMs? Visit our [website](https://www.awesome-llm-app-ideas.com) for an interactive experience, project inspiration, and the latest updates.
+Ready to explore the limitless possibilities of LLMs? Visit our [website](https://shrest4647.github.io/awesome-llm-app-ideas) for an interactive experience, project inspiration, and the latest updates.
 
-[![Explore Now](https://example.com/explore-now-button.png)](https://www.awesome-llm-app-ideas.com)
 
 ## Support
 
-If you have any questions, feedback, or need assistance, our dedicated support team is here to help. Please reach out to us at [support@awesome-llm-app-ideas.com](mailto:support@awesome-llm-app-ideas.com).
+If you have any questions, feedback, or need assistance, our dedicated support team is here to help. Please reach out to us at [support@awesome-llm-app-ideas.com](mailto:shrest46760+alai@gmail.com).
 
 ## Acknowledgments
 
@@ -41,4 +40,4 @@ The Awesome LLM App Ideas repository is released under the [MIT License](LICENSE
 
 Embrace the limitless potential of Large Language Models and explore the innovative applications they can bring to life. Get started with Awesome LLM App Ideas today and turn your creativity into reality.
 
-[![Explore Now](https://example.com/explore-now-button.png)](https://www.awesome-llm-app-ideas.com/explore)
+[Explore Now](https://shrest4647.github.io/awesome-llm-app-ideas/explore)
